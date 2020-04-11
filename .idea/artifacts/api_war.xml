@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="api:war">
+    <output-path>$PROJECT_DIR$/tr.mhu.core.api/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>api</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="api-1.1.1-RELEASE.war">
+      <element id="artifact" artifact-name="api:war exploded" />
+    </root>
+  </artifact>
+</component>

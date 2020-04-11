@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath>
+          <entry name="$PROJECT_DIR$" />
+        </processorPath>
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="tr.mhu.core.data" />
+        <module name="tr.mhu.core.api" />
+        <module name="tr.mhu.core.domain" />
+        <module name="tr.mhu.core.service" />
+        <module name="service" />
+        <module name="domain" />
+        <module name="data" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="data" target="1.8" />
+      <module name="domain" target="1.8" />
+      <module name="service" target="10" />
+      <module name="spring_boot_crud_exp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api" options="-parameters" />
+      <module name="data" options="-parameters" />
+      <module name="domain" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="tr.mhu.core" options="-parameters" />
+      <module name="tr.mhu.core.api" options="-parameters" />
+      <module name="tr.mhu.core.data" options="-parameters" />
+      <module name="tr.mhu.core.domain" options="-parameters" />
+      <module name="tr.mhu.core.service" options="-parameters" />
+    </option>
+  </component>
+</project>

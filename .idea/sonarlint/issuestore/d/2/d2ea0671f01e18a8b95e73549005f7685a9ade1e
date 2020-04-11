@@ -1,0 +1,14 @@
+
+@
+java:S1068"%Remove this unused "T" private field.(åÛ¢ôûÿÿÿÿ
+H
+java:S1068"-Remove this unused "errorCode" private field.(¾Õüÿÿÿÿ
+C
+java:S1068"-Remove this unused "isSuccess" private field.(òğı»
+D
+java:S1068")Remove this unused "listT" private field.(³Éœºüÿÿÿÿ
+f	java:S116"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÛ¢ôûÿÿÿÿ
+K
+java:S1068"0Remove this unused "errorMessage" private field.(¥åˆüÿÿÿÿ
+F
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ

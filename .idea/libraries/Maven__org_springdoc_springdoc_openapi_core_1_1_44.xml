@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springdoc:springdoc-openapi-core:1.1.44">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springdoc/springdoc-openapi-core/1.1.44/springdoc-openapi-core-1.1.44.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springdoc/springdoc-openapi-core/1.1.44/springdoc-openapi-core-1.1.44-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springdoc/springdoc-openapi-core/1.1.44/springdoc-openapi-core-1.1.44-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
